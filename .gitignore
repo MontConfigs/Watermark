@@ -201,5 +201,3 @@ local function createGui(parent)
 	end)
 end
 createGui(game.CoreGui) --coregui by default you should but change it
-else
-   gui:selfdestruct
